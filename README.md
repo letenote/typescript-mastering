@@ -94,3 +94,17 @@ Functions are the building blocks of readable, maintainable, and reusable code. 
 -   [ ] optional & default parameters
 -   [ ] rest parameter
 -   [ ] conditional type with union, generic, overloads
+
+## 6. Classes
+
+-   [ ] class basic : constructor, properties, method
+-   [ ] access modifiers (private, public, private)
+-   [ ] inheritance / sub-class
+-   [ ] static member
+-   [ ] abstract classes
+
+| access modifier | class | sub-class | instance |
+| --------------- | ----- | --------- | -------- |
+| public          | ✅    | ✅        | ✅       |
+| protected       | ✅    | ✅        | ❌       |
+| private         | ✅    | ❌        | ❌       |
